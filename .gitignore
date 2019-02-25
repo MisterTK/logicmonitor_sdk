@@ -61,4 +61,7 @@ docs/_build/
 target/
 
 #Ipython Notebook
-.ipynb_checkpoints#.vscode#.swagger-codegen#.travis.yml
+.ipynb_checkpoints
+
+#vsCode
+.vscode
