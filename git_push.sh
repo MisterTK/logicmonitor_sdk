@@ -3,8 +3,8 @@
 #
 # Usage example: /bin/sh ./git_push.sh wing328 swagger-petstore-perl "minor update"
 
-git_user_id=$1
-git_repo_id=$2
+git_user_id=MisterTK
+git_repo_id=logicmonitor_sdk
 release_note=$3
 
 if [ "$git_user_id" = "" ]; then
